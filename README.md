@@ -1,2 +1,2 @@
 # simple-faster-rcnn
-a simple implementation for faster-rcnn
+a simple implementation of faster-rcnn
